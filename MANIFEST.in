@@ -1,0 +1,2 @@
+include awoc/data/world.json
+recursive-include test *.py
